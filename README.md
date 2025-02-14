@@ -1,5 +1,7 @@
 # Belajar Redux dalam React dengan Aplikasi Keranjang Belanja Sederhana
 
+🚀**Demo:** [https://simple-redux-cart-app.vercel.app](https://simple-redux-cart-app.vercel.app/)
+
 Redux adalah pustaka manajemen state untuk aplikasi JavaScript, terutama digunakan dengan React. Redux berfungsi sebagai **gudang data pusat** yang menyimpan semua informasi penting aplikasi, sehingga setiap komponen dapat membaca dan memperbarui state dengan cara yang terstruktur dan terkendali.
 
 ## 🚨 Mengapa Menggunakan Redux?
